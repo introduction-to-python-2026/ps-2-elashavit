@@ -3,7 +3,7 @@ def find_max_number(num1, num2, num3):
       return num1
     elif num2 >= num1 and num2 >= num3:
       return num2
-    else
+    else:
       return num3
 
 
