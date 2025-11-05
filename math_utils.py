@@ -7,8 +7,9 @@ def find_max_number(num1, num2, num3):
 
 
 def find_mean(num1, num2, num3):
-    return (num1 + num2 + num3) / 3
-
+ sum_numbers = (num1 + nim2 + num3)
+ mean_value = sum_numbers/3
+ return mean_value
 
 def find_mean_std(num1, num2, num3):
     mean = find_mean(num1, num2, num3)
